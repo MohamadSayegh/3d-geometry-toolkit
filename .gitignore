@@ -34,3 +34,4 @@
 #folders
 orocos_kinematics_dynamics/
 3d_lines_intersection/build/
+3d_line_plane_intersection/build/
